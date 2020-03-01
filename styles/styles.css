@@ -8,7 +8,7 @@ html {
 header, main {
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(240,245,251,1) 100%);
     margin: 17.5vh 11vw;
-    box-shadow: 0 0 10px 0 #244977;
+    box-shadow: 0 0 10px #244977;
 }
 
 header {
@@ -35,14 +35,12 @@ li {
     margin: 0 2.196vw;
     background-color: white;
     padding: 1.464vw 3.044vh;
-    -webkit-box-shadow: 0 0 5px #244977;
-        box-shadow: 0 0 5px #244977;
+    box-shadow: 0 0 5px #244977;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
 li:hover {
-    -webkit-box-shadow: 0 0 5px #244977 inset;
-        box-shadow: 0 0 5px #244977 inset;
+    box-shadow: 0 0 5px #244977 inset;
 }
 
 ul {
