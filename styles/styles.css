@@ -74,6 +74,7 @@ footer {
 #Sources p {
     padding-left: 30px;
     text-indent: -30px;
+    overflow-wrap: anywhere;
 }
 
 #vestibularLabyrinth img {
